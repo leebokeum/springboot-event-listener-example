@@ -1,8 +1,8 @@
 package com.example.eventlistener;
 
-import com.example.eventlistener.annotationListener.AnnotationListener;
-import com.example.eventlistener.implementListener.EventListener;
-import com.example.eventlistener.event.EventPublisher;
+import com.example.eventlistener.defaultEvent.annotationListener.AnnotationListener;
+import com.example.eventlistener.defaultEvent.implementListener.EventListener;
+import com.example.eventlistener.defaultEvent.event.EventPublisher;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

@@ -1,6 +1,6 @@
-package com.example.eventlistener.annotationListener;
+package com.example.eventlistener.defaultEvent.annotationListener;
 
-import com.example.eventlistener.event.BlackListEvent;
+import com.example.eventlistener.defaultEvent.event.BlackListEvent;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;
 import org.springframework.core.annotation.Order;

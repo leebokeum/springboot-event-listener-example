@@ -1,6 +1,5 @@
-package com.example.eventlistener.event;
+package com.example.eventlistener.defaultEvent.event;
 
-import com.example.eventlistener.event.BlackListEvent;
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.context.ApplicationEventPublisherAware;
 
